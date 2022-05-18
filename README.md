@@ -6,7 +6,7 @@
 
 ➜ Currently learning Rust.
 
-➜ On a break rn due to academics..
+
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/731531796982005800)](https://discord.com/users/731531796982005800)
 # Stats
