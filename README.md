@@ -4,9 +4,9 @@
 
 ➜ Linux enthusiast.
 
-➜ Currently learning Rust.
+➜ Senior High school student.
 
-➜ On a break
+
 
 
 
