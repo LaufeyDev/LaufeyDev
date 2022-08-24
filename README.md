@@ -1,6 +1,6 @@
 # Hello There!
 
-➜ I'm a student who does programming as a hobby.
+
 
 ➜ Linux enthusiast.
 
