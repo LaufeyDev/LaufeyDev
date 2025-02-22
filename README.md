@@ -1,10 +1,5 @@
 # Hello There!
-
-
-
-➜ Linux enthusiast.
-
-➜ Senior High school student.
+electrical engineering who is also slightly inclined to software side.
 
 
 
