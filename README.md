@@ -1,5 +1,5 @@
 # Hello There!
-electrical engineering who is also slightly inclined to software side.
+Electrical engineering student who is also slightly inclined to software side.
 
 
 
